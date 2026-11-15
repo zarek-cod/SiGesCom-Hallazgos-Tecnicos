@@ -1,0 +1,89 @@
+{
+  "fecha": "2026-11-15",
+  "originales_modificados": false,
+  "aplicacion": {
+    "sha256": "47487CA7835F2F6A91BDE4E32235F2CE9B838545D4DC94FD089113514AC849AC",
+    "runtime": ".NET Framework 4.5.2",
+    "tipo": "Windows Forms / CIL / AnyCPU prefer 32-bit"
+  },
+  "herramientas": {
+    "rea": "6.8.0",
+    "ilspycmd": "11.2.0.10050",
+    "dnspyex": "6.6.0",
+    "ghidra_disponible": "12.1.4",
+    "visual_studio": "18.11.0",
+    "sql_server": "17.0.1155.3"
+  },
+  "ilspy_aplicacion_principal": {
+    "exportacion_exitosa": true,
+    "archivos_cs": 175,
+    "lineas_cs_aproximadas": 75271,
+    "resx": 135,
+    "entradas_recurso": 489,
+    "build_net48": {
+      "exitoso": true,
+      "errores": 0,
+      "advertencias": 11,
+      "ajustes": [
+        "redestinar copia aislada de net452 a net48",
+        "agregar referencia directa a DevExpress.Drawing.v22.2"
+      ]
+    }
+  },
+  "dnspyex_aplicacion_principal": {
+    "exportacion_exitosa": true,
+    "archivos_cs": 312,
+    "lineas_cs_aproximadas": 89176,
+    "designer_cs": 139,
+    "resx": 138,
+    "build_net48": {
+      "exitoso": false,
+      "errores_sintacticos": 32,
+      "archivos_afectados": 4
+    }
+  },
+  "bibliotecas_propias_ilspy": {
+    "ensamblados": 12,
+    "exportaciones_exitosas": 12,
+    "archivos_cs": 494,
+    "lineas_cs_aproximadas": 87519,
+    "compilaciones_finales_exitosas": 12,
+    "ajustes": [
+      "habilitar referencia Windows Forms en dos proyectos",
+      "restaurar tres GUID de interfaces COM de Excel omitidos en la reconstruccion"
+    ]
+  },
+  "totales_ilspy": {
+    "ensamblados_propios": 13,
+    "archivos_cs": 669,
+    "lineas_cs_aproximadas_tras_ajustes": 162793,
+    "pdb_originales_encontrados": 0
+  },
+  "base_restaurada": {
+    "nombre": "SiGesComV1_Libreria_Rossmary",
+    "respaldo_sha256": "AAF077ADB37CA9222EEEFC060620D5798A9F7B71ED5854BFCB37C312D82FF26D",
+    "tablas": 75,
+    "vistas": 95,
+    "procedimientos": 37,
+    "funciones": 8,
+    "dbcc_checkdb_errores": 0,
+    "estaciones_activas_existentes": 2,
+    "zarek_registrada": false
+  },
+  "evidencia_rea": {
+    "instalacion": "ev_898ebbc24696d81ee6b272244b2109ab4bcddf76ba0d045f29314525b40a8155",
+    "identidad_administrada": "ev_f0e65b1eff9b8d2cd3c04998f53bfacc955f02ed79ed699fd0dd65b2821965e8",
+    "arranque": "ev_5794634ee5fb0a4ade46bd65cc596c40bb76faf2ea554d3b049c2bbfaebbe28b"
+  },
+  "exclusiones": [
+    "credenciales",
+    "cadenas de conexion",
+    "huella de hardware",
+    "codigo de activacion",
+    "url privada de verificacion",
+    "binarios",
+    "base de datos",
+    "codigo descompilado"
+  ]
+}
+

@@ -1,0 +1,29 @@
+# Este repositorio contiene solo documentación y verificadores seguros.
+# Bloqueo defensivo de artefactos originales, secretos y salidas de análisis.
+*.exe
+*.dll
+*.pdb
+*.bak
+*.mdf
+*.ldf
+*.config
+*.zip
+*.7z
+*.rar
+*.log
+*.lic
+*.license
+*.licenses
+*.user
+*.suo
+bin/
+obj/
+Originales/
+BaseDatos/
+WebView2/
+decompilado/
+reconstruccion/
+secrets/
+.env
+.env.*
+
