@@ -1,5 +1,7 @@
 # Hallazgos técnicos de SiGesCom
 
+> **Actualización:** la recuperación ya fue ejecutada y validada en un laboratorio aislado. SiGesCom alcanzó la ventana principal, reconoció `ZAREK` y cargó un módulo con datos de la base de laboratorio. Consulte [RECUPERACION-EJECUTADA.md](RECUPERACION-EJECUTADA.md).
+
 Investigación estática y pruebas locales no destructivas realizadas el 15 de noviembre de 2026 sobre una copia autorizada de SiGesCom.
 
 ## Resultado principal

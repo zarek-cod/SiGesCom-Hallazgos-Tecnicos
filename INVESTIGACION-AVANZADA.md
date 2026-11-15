@@ -179,3 +179,11 @@ La recuperación técnica es viable y ya se probó más allá de una simple insp
 
 La ruta sensata es: regularizar la autorización con el proveedor/titular, conservar una reconstrucción privada para contingencia y comenzar una modernización gradual con la opción B. Si el objetivo es independencia a largo plazo, la opción C debe construirse sobre contratos de datos documentados, no sobre una copia pública del código descompilado.
 
+## 8. Actualización de ejecución en laboratorio
+
+La sección anterior conserva la fotografía de la investigación estática inicial. Posteriormente, con autorización del titular y sin modificar la instalación ni la base originales, se ejecutó un vector local de compatibilidad en un laboratorio separado.
+
+El resultado actual reemplaza la conclusión histórica de que el programa seguía detenido antes de SQL: la variante privada alcanzó la interfaz principal, reconoció la estación `ZAREK` y abrió el mantenimiento de artículos con datos de `SiGesComV1_Laboratorio`. La base original continuó sin una estación `ZAREK`.
+
+Los detalles verificables y los límites de publicación están en [RECUPERACION-EJECUTADA.md](RECUPERACION-EJECUTADA.md). La implementación del cambio CIL, los binarios y la configuración no forman parte de este repositorio público.
+
